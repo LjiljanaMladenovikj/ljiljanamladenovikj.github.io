@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ljiljana Mladenovikj</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="cela">
+    <div id="slika">
+        <img id="lili" src="ме.jpg" height="957" width="749"/>
+        <div id="ime">Љиљана Младеновиќ</div>
+    </div>
+    <div id="nav">
+        <ul>
+            <li><a href="index.html"><span> НАСЛОВНА </span></a></li>
+            <li><a href="ОБРАЗОВАНИЕ.html"><span> ОБРАЗОВАНИЕ </span></a></li>
+            <li><a href="hobi.html"><span> ХОБИ </span></a></li>
+            <li><a href="patuvanja.html"><span> ПАТУВАЊА </span></a></li>
+        </ul>
+    </div>
+    <div id="bio">
+        <div>Години: 20</div>
+        <div>Место на живеење: Скопје, Македонија</div>
+        <div>Статус: Студент</div>
+    </div>
+    <div id="sodrzina">
+        <div id="sredno">
+            <div id="sliki">
+                <h2>Кан,Франција</h2>
+                <img src="357664147_579950387554733_3348985847938573586_n.jpg" height="400" width="250"/>
+                <img src="357671486_812722846889286_5274733813714870552_n.jpg" height="400" width="250"/>
+                <img src="357623232_291415836665221_7796026353234444141_n.jpg" height="400" width="250"/>
+                <h2>Kопаоник,Србија</h2>
+                <img src="357972549_924040825337165_2786382475937097556_n.jpg" height="400" width="250"/>
+                <img src="357981108_742837044263337_3870925267372454752_n.jpg" height="400" width="250"/>
+                <img src="358015161_808067487394963_915584741430372245_n.jpg" height="400" width="250"/>
+                <h2>Aјвалик,Турција</h2>
+                <img src="358004838_858933245658695_8819957099290270310_n.jpg" height="400" width="250"/>
+                <img src="357616253_969807450999100_2326368729924882144_n.jpg" height="400" width="250"/>
+                <img src="357772816_1476648739806555_4345988529604402118_n.jpg" height="400" width="250"/>
+                <h2>Болоња,Италија</h2>
+                <img src="357850492_236956159190285_7263073038826634822_n.jpg" height="400" width="250"/>
+                <img src="357646002_804850447969089_3132773471550471328_n.jpg" height="400" width="250"/>
+                <img src="358019186_179639778228584_1500201317662650628_n.jpg" height="400" width="250"/>
+            </div>
+        </div>
+        </div>
+</div>
+</body>
+</html>
