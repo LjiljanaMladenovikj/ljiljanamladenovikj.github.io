@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ljiljana Mladenovikj</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="cela">
+        <div id="slika">
+            <img id="lili" src="ме.jpg" height="957" width="749"/>
+            <div id="ime">Љиљана Младеновиќ</div>
+        </div>
+            <div id="nav">
+            <ul>
+                <li><a href="index.html"><span> НАСЛОВНА </span></a></li>
+                <li><a href="ОБРАЗОВАНИЕ.html"><span> ОБРАЗОВАНИЕ </span></a></li>
+                <li><a href="hobi.html"><span> ХОБИ </span></a></li>
+                <li><a href="patuvanja.html"><span> ПАТУВАЊА </span></a></li>
+            </ul>
+        </div>
+        <div id="bio">
+            <div>Години: 20</div>
+            <div>Место на живеење: Скопје, Македонија</div>
+            <div>Статус: Студент</div>
+        </div>
+    <div id="sodrzina">
+        <div> Добре дојде на мојата прва веб страница.</div>
+        <div>Сакаш да дознаеш повеќе за мене?</div>
+
+    </div>
+    <footer>
+        <div class="kontakt">
+            <img src="phone-call_455705.png" height="40" width="40"/>
+            <div>071/267-003</div>
+        </div>
+        <div class="kontakt">
+            <img src="email_3178158.png" height="40" width="40"/>
+            <div><a href="mailto:lj.mladenovikj@gmail.com"> lj.mladenovikj@gmail.com </a></div>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
