@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ljiljana Mladenovikj</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="cela">
+  <div id="slika">
+    <img id="lili" src="ме.jpg" height="957" width="749"/>
+    <div id="ime">Љиљана Младеновиќ</div>
+  </div>
+  <div id="nav">
+    <ul>
+      <li><a href="index.html"><span> НАСЛОВНА </span></a></li>
+      <li><a href="ОБРАЗОВАНИЕ.html"><span> ОБРАЗОВАНИЕ </span></a></li>
+      <li><a href="hobi.html"><span> ХОБИ </span></a></li>
+      <li><a href="patuvanja.html"><span> ПАТУВАЊА </span></a></li>
+    </ul>
+  </div>
+  <div id="bio">
+    <div>Години: 20</div>
+    <div>Место на живеење: Скопје, Македонија</div>
+    <div>Статус: Студент</div>
+  </div>
+  <div id="sodrzina">
+    <div id="sredno">
+      <p>Нешто што најмногу сакам да го правам е гледањето серии.</p>
+      <p>Затоа ги издвојувам најдобрите, доколку не сте ги гледале многу пропуштате.</p>
+      <ol id="serii">
+        <li>Game of Thrones
+          <div>
+            <img src="GOTXboxrated.jpg" height="300" width="300"/>
+          </div></li>
+        <li>How I Met Your Mother
+          <div>
+            <img src="himym.PNG" height="300" width="236"/>
+          </div></li>
+        <li>The Big Bang Theory
+          <div>
+            <img src="BBT.jpg" height="300" width="200"/>
+          </div></li>
+      </ol>
+    </div>
+</div>
+</div>
+</body>
+</html>
