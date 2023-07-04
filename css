@@ -1,0 +1,122 @@
+#nav li{
+   display: inline-block;
+    padding: 20px;
+}
+#nav{
+    background: #312f2f;
+    display: inline-block;
+    width: 1000px;
+    vertical-align: top;
+}
+#nav a{
+    color: #dcd2d2;
+    text-decoration: none;
+}
+#nav a:hover{
+    color: #eabe6d;
+}
+#lili{
+    width: 200px;
+    height: 250px;
+    border-radius: 100%;
+    margin-left: 50px;
+    border: 2px solid black;
+}
+#slika{
+    width: 300px;
+    background-color: #494444;
+    display: inline-block;
+    padding:10px;
+}
+#ime{
+    margin-left: 70px;
+    padding-top: 20px;
+    color: #dcd2d2;
+ }
+#bio{
+    background-color: #312f2f;
+    color:#dcd2d2;
+    width: 320px;
+    display: inline-block;
+}
+#bio div{
+    padding: 10px;
+    text-align: justify;
+}
+body{
+    background-color: #232121;
+}
+#sodrzina{
+    width: 1000px;
+    display: inline-block;
+    color: #dcd2d2;
+    text-align: center;
+    vertical-align: top;
+    margin-top:-100px ;
+}
+
+footer{
+    height: 200px;
+    background: url("images.png") no-repeat 50% 50% , #111010;
+    color: #dcd2d2;
+}
+footer span{
+}
+#sredno{
+    text-align:left;
+    margin-top: -100px;
+    margin-left: 20px;
+}
+#karev, #finki {
+    text-indent: 2em;
+    font-size: 20px;
+}
+#karev2, #faks{
+    padding: 10px;
+    width: 660px;
+    display: inline-block;
+}
+.logo {
+    display: inline-block;
+    float: right;
+    margin-top: -40px;
+    vertical-align: top;
+}
+#serii li{
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+    font-size: 20px;
+    justify-content: left;
+}
+#serii li div{
+    padding-top: 10px;
+}
+#sredno p{
+    font-size: 18px;
+}
+#sliki img{
+    padding-right: 50px;
+}
+.kontakt{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.kontakt:last-of-type{
+    padding-top: 0;
+}
+
+.kontakt div{
+    display: inline-block;
+    margin-top: -10px;
+    font-size: 14px;
+    vertical-align: middle;
+    height: 40px;
+    padding-left: 5px;
+}
+a{
+    text-decoration: none;
+    color: #dcd2d2;
+}
+
+
